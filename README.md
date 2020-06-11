@@ -8,6 +8,7 @@
 - git remote -v = Shows the name and URL of remote. It is the location where the code is pushed.
 - git branch = show all the branches
 - git diff `file name` = Compares the file in previous commit with recent changes.
+- git log = List of all commit messages.
 
 
 ## LINUX Commands
