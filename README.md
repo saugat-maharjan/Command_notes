@@ -18,6 +18,7 @@
 - pwd= Shows the path of present working directory(pwd)
 - rm `file_name`= Delete the specified file name.
 - rm -r `folder_name` = Delete a folder.
+- la = List of all files including hidden files.
 
 ## Extra Commands
 - code . = Open current folder in VS code.
