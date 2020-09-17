@@ -12,7 +12,7 @@
 
 
 ## LINUX Commands
-- cd.. = One step back from the current folder.
+- cd .. = One step back from the current folder.
 - cd `folder_name` = Go inside defined folder name
 - ls = List everything inside of a folder.
 - pwd= Shows the path of present working directory(pwd)
