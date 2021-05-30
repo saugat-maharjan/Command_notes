@@ -16,7 +16,6 @@
 - git diff `file name` = Compares the file in previous commit with recent changes.
 - git log = List of all commit messages.
 - git log --oneline = List all the commit messages in one line.
-- `:wq` = for conflict
 
 ## LINUX Commands
 
